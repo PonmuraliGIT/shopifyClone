@@ -10,4 +10,4 @@ Designed shopify clone in tailwind css as a part of assignment. during the cloni
 
 ## Screenshot
 
-![Login form image](https://github.com/PonmuraliGIT/shopifyClone/blob/main/shopify-cover.png)
+![Shopiy Clone](https://github.com/PonmuraliGIT/shopifyClone/blob/main/shopify-cover.png)
